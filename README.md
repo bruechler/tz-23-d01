@@ -3,6 +3,6 @@
 GitHub ist cool!
 Inhalt.
 Update!
-Noch ein Update...
+Nicht noch ein Update...
 
 Hallo Welt!
